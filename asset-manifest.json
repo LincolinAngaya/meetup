@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//Lincolin_Angaya.github.io/static/css/main.e968587a.css",
+    "main.js": "/%20//Lincolin_Angaya.github.io/static/js/main.84b4efb8.js",
+    "index.html": "/%20//Lincolin_Angaya.github.io/index.html",
+    "main.e968587a.css.map": "/%20//Lincolin_Angaya.github.io/static/css/main.e968587a.css.map",
+    "main.84b4efb8.js.map": "/%20//Lincolin_Angaya.github.io/static/js/main.84b4efb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e968587a.css",
+    "static/js/main.84b4efb8.js"
+  ]
+}
